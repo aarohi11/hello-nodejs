@@ -1,2 +1,2 @@
-//This is just to show changes
-console.log("Hello World!\n");
+//This is a sample feature addition
+console.log("This is a feature branch!\n");
